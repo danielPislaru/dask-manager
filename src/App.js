@@ -45,6 +45,13 @@ const App = () => {
 
     saveTasksToLocalStorage(newTaskList);
     setOpenDialog(false);
+    setNewTask({
+      id: null,
+      title: "",
+      description: "",
+      level: "",
+      status: "Backlog",
+    });
   };
 
   const deleteTask = (e, taskId) => {
