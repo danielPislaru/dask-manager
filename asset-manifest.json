@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dask-manager/static/css/main.d6392c6d.chunk.css",
-    "main.js": "/dask-manager/static/js/main.f647431b.chunk.js",
-    "main.js.map": "/dask-manager/static/js/main.f647431b.chunk.js.map",
+    "main.js": "/dask-manager/static/js/main.db59e544.chunk.js",
+    "main.js.map": "/dask-manager/static/js/main.db59e544.chunk.js.map",
     "runtime-main.js": "/dask-manager/static/js/runtime-main.42cbeaca.js",
     "runtime-main.js.map": "/dask-manager/static/js/runtime-main.42cbeaca.js.map",
     "static/js/2.5fb54843.chunk.js": "/dask-manager/static/js/2.5fb54843.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.42cbeaca.js",
     "static/js/2.5fb54843.chunk.js",
     "static/css/main.d6392c6d.chunk.css",
-    "static/js/main.f647431b.chunk.js"
+    "static/js/main.db59e544.chunk.js"
   ]
 }
